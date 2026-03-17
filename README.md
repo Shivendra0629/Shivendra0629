@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Currently pursuing B.Tech in Computer Science (AI & ML<br>📊 CGPA: 9.11<br>💻 Strong foundation in C, C++, Python<br>📚 Learning : Data Structures & Machine Learning<br>📊 Experience with NumPy, Pandas, Matplotlib<br>🎯 Goal: Become an AI/ML Engineer
+🎓 Currently pursuing B.Tech in Computer Science (AI & ML)<br>📊 CGPA: 9.11<br>💻 Strong foundation in C, C++, Python<br>📚 Learning : Data Structures & Machine Learning<br>📊 Experience with NumPy, Pandas, Matplotlib<br>🎯 Goal: Become an AI/ML Engineer
 
 
 ## 🌐 Socials:
