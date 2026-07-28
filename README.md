@@ -7,7 +7,7 @@
 📚 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, and Problem Solving**  
 📈 Skilled in **Python, SQL, Machine Learning, Data Visualization, and Streamlit**  
 🏆 **Star Performer** at Excelerate Data Visualization Internship | **Amazon ML Summer School 2026** Shortlisted  
-🌱 Currently learning **Generative AI, LLMs, and Advanced Machine Learning**  
+🌱 Currently learning **Data Structures and Machine Learning**  
 🎯 Aspiring **AI/ML Engineer** passionate about building intelligent, data-driven applications
 
 ---
@@ -15,6 +15,7 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivendramahato0629)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Sm06_29/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/smahato05_0629)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shivendramahato0629@gmail.com)
 
